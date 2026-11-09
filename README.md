@@ -33,7 +33,6 @@
 [![uv](https://img.shields.io/badge/uv-261230.svg?logo=uv&logoColor=%23de5fe9)](#)
 [![Electron](https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=fff)](#)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 
 ---
 
